@@ -1,0 +1,52 @@
+body{
+
+font: 20px Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+
+    background-color: #298A08;
+    
+
+}
+
+.navbar-nav {
+
+    margin-left: 70px;
+  
+}
+
+.quem-somos {
+
+background-color: #8181f7;
+color: white;
+
+}
+
+.margin {
+padding-bottom: 50px;
+padding-top: 10px;
+
+}
+
+.parceiros  {
+
+background-color:  #583458fa;
+
+}
+
+.microsoft  {
+
+    margin-top:40px ;
+}
+
+.bg-footer {
+
+    background-color: black;
+    color: white;
+}
+
+.nav-link {
+
+    color: black;
+}
